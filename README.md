@@ -1,1 +1,1 @@
-# ReactReduxBasedProjct
+# ReactReduxBasedProject
