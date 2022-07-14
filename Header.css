@@ -1,0 +1,32 @@
+.header {
+    box-shadow: 0px 2px 5px #bebaba5a;
+    background-color: #d1c3e1f7;
+    height: auto;
+    /* color: white; */
+    padding:10px 0;
+    width: 100%;
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+  }
+  
+  .header a {
+    color: black;
+  }
+ 
+  .headerFont {
+    font-size: 25px;
+  }
+  
+  .header a {
+    padding: 0px 35px;
+    text-decoration: none
+    
+  }
+  /* .header a:active{
+    color: red;
+  } */
+  
+  .header ul {
+    margin-left: 70px;
+  }

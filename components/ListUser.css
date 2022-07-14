@@ -1,0 +1,67 @@
+.displayUsers {
+  margin-top: 20px;
+}
+
+.displayUsers div {
+  width: 400px;
+  height: 150px;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.displayUsers h1 {
+  text-align: center;
+}
+
+.MuiTableCell-head {
+  background-color: rgb(226, 229, 229);
+}
+table{
+  border: 1px solid #836d6d;
+  border-bottom: 2px solid #836d6d;
+}
+td,
+th {
+  padding: 20px;
+  height: 70px;
+  box-shadow: 1px 1px lightblue ;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(226, 229, 229);
+}
+
+.updateButton {
+  border: none;
+  background-color: lightgreen;
+}
+
+.addUser {
+  margin: 50px;
+}
+.registerlink{
+  font-size: 25px;
+}
+
+.registerlink button {
+  margin: 10px;
+}
+.feedback{
+  margin: 20px 0px;
+  size: 50px;
+  box-shadow: 2px solid grey;
+}
+
+.MuiRating-label{
+  font-size: 30px;
+}
+.updateForm{
+  margin: 100px;
+}
+.updateForm button,input{
+  width: 500px;
+  height: 50px;
+  margin: 50px 0;
+}
